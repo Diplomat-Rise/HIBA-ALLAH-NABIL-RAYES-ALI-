@@ -6,10 +6,10 @@
 // FN:Afaf Mohammad Marouf
 // TITLE:Sales Manager
 // ORG:RISE Properties
-// TEL;TYPE=WORK,VOICE:+971521977368
-// TEL;TYPE=WORK,VOICE:+971568809032
+// TEL;TYPE=WORK,VOICE:+971588982647
+// TEL;TYPE=WORK,VOICE:+971547172318
 // TEL;TYPE=WORK,VOICE:+97145665109
-// EMAIL:Afaf@riseproperties.ae
+// EMAIL:Hiba@riseproperties.ae
 // URL:http://www.riseproperties.ae
 // ADR;TYPE=WORK:;;PO Box No 455979, Office NO.1607, Opal Tower, Business Bay;Dubai;;UAE
 // END:VCARD
@@ -20,7 +20,7 @@
 
 //   const a = document.createElement('a');
 //   a.href = url;
-//   a.download = 'Afaf-Mohammad-Marouf.vcf';
+//   a.download = 'HIBA ALLAH NABIL RAYES ALI.vcf';
 //   document.body.appendChild(a);
 //   a.click();
 //   document.body.removeChild(a);
@@ -38,11 +38,11 @@ function downloadVCard() {
   const vCardData = `
 BEGIN:VCARD
 VERSION:3.0
-FN:Ahmad Uzair Chaudhary
+FN:HIBA ALLAH NABIL RAYES ALI
 TITLE:Sales Manager
 ORG:RISE Properties
 TEL;TYPE=WORK,VOICE:+97145665109
-EMAIL:Ahmed.Uzair@riseproperties.ae
+EMAIL:Hiba@riseproperties.ae
 URL:http://www.riseproperties.ae
 ADR;TYPE=WORK:;;PO Box No 455979, Office NO.1607, Opal Tower, Business Bay;Dubai;;UAE
 END:VCARD
@@ -53,7 +53,7 @@ END:VCARD
 
   const a = document.createElement('a');
   a.href = url;
-  a.download = 'Ahmad Uzair Chaudhary.vcf';
+  a.download = 'HIBA ALLAH NABIL RAYES ALI.vcf';
   document.body.appendChild(a);
   a.click();
   document.body.removeChild(a);
